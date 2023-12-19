@@ -1,0 +1,27 @@
+{
+  "name": "swear-threejs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^21.0.0",
+    "dat": "^14.0.3",
+    "dat.gui": "^0.7.9",
+    "gui": "^0.14.1",
+    "mongoose": "^8.0.3",
+    "primus": "^8.0.9",
+    "tailwind": "^4.0.0",
+    "three": "^0.159.0"
+  }
+}
